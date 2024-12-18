@@ -1,0 +1,16 @@
+C:\Users\noteb\source\repos\Clicker\bin\Debug\net9.0-windows\Clicker.exe
+C:\Users\noteb\source\repos\Clicker\bin\Debug\net9.0-windows\Clicker.deps.json
+C:\Users\noteb\source\repos\Clicker\bin\Debug\net9.0-windows\Clicker.runtimeconfig.json
+C:\Users\noteb\source\repos\Clicker\bin\Debug\net9.0-windows\Clicker.dll
+C:\Users\noteb\source\repos\Clicker\bin\Debug\net9.0-windows\Clicker.pdb
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.Form1.resources
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.csproj.GenerateResource.cache
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.AssemblyInfoInputs.cache
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.AssemblyInfo.cs
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.csproj.CoreCompileInputs.cache
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.dll
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\refint\Clicker.dll
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.pdb
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\Clicker.genruntimeconfig.cache
+C:\Users\noteb\source\repos\Clicker\obj\Debug\net9.0-windows\ref\Clicker.dll
